@@ -1,1 +1,1 @@
-# ShehryarAnees.Plant-Disease-Detection
+# Plant-Disease-Detection
